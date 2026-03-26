@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063126418476",
+    "project_id": "primeyard-521ea",
+    "storage_bucket": "primeyard-521ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063126418476:android:d42f77528438d22ac7bd89",
+        "android_client_info": {
+          "package_name": "com.primeyard.workspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf0ziL9na5z7CPodC33T1SjQVBOCXUFCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
